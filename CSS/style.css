@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+.leaf-img{
+    margin-top: 150px;
+    margin-left: 420px;
+    z-index: 99;
+    position: absolute; 
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+    
+}
+
+
+
+/* my-image */
+.my-image{
+   width:370px;
+   height: 250px;
+    clip-path: circle();
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 550px;
+    align-items: center;
+    z-index: 100;
+    
+   
+}
+
+    
